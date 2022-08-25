@@ -6,18 +6,21 @@
 System.Console.Write("Enter number: ");
 int number = int.Parse(Console.ReadLine());
 
-while ((number / 100) > 0)
-{
-    number = number / 10;
-    
-}
+if(((number / 100) > 0) && ((number / 1000) < 1)) 
+    {
+    int thirdNumber = number % 10;  
+    System.Console.WriteLine( "third number : "+ thirdNumber);
+    }
+else if ((number / 1000) > 1)
+    {
+        while((number / 1000) > 1)
+        {
+            number = number / 10;
+        }
+    int thirdNumber = number % 10;  
+    System.Console.WriteLine( "third number : "+ thirdNumber);
 
-
-if(((number / 100) > 0) && ((number / 1000) < 1) )
-{
-    int lastNumber = number % 10;
-    System.Console.WriteLine( "Last number : "+ lastNumber);
-}
+    }
 
 else
 {
