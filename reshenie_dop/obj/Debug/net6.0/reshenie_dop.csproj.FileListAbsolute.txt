@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\bin\Debug\net6.0\reshenie_dop.exe
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\bin\Debug\net6.0\reshenie_dop.deps.json
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\bin\Debug\net6.0\reshenie_dop.runtimeconfig.json
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\bin\Debug\net6.0\reshenie_dop.dll
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\bin\Debug\net6.0\reshenie_dop.pdb
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\obj\Debug\net6.0\reshenie_dop.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\obj\Debug\net6.0\reshenie_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\obj\Debug\net6.0\reshenie_dop.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\obj\Debug\net6.0\reshenie_dop.AssemblyInfo.cs
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\obj\Debug\net6.0\reshenie_dop.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\obj\Debug\net6.0\reshenie_dop.dll
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\obj\Debug\net6.0\refint\reshenie_dop.dll
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\obj\Debug\net6.0\reshenie_dop.pdb
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\obj\Debug\net6.0\reshenie_dop.genruntimeconfig.cache
+C:\Users\1\Desktop\Обучение ID\C#\Homework 2\reshenie_dop\obj\Debug\net6.0\ref\reshenie_dop.dll
